@@ -1,4 +1,4 @@
-package com.miras.design.patterns.singleton;
+package com.miras.design.patterns.creational.singleton;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;

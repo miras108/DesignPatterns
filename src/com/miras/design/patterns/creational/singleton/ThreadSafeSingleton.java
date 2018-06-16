@@ -1,4 +1,4 @@
-package com.miras.design.patterns.singleton;
+package com.miras.design.patterns.creational.singleton;
 
 public class ThreadSafeSingleton {
     private static ThreadSafeSingleton singleton;

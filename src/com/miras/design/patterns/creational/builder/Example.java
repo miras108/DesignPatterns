@@ -1,4 +1,4 @@
-package com.miras.design.patterns.builder;
+package com.miras.design.patterns.creational.builder;
 
 public class Example {
 
